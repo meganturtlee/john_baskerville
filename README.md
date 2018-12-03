@@ -18,3 +18,23 @@ Added list items
 
 [Version 03](https://meganturtlee.github.io/john_baskerville/baskerville3.html)
 Added tables and images
+
+<br>
+
+### Monday 19th November
+
+[Version 04](https://meganturtlee.github.io/john_baskerville/baskerville4.html) 
+Added css stylesheet
+
+<br>
+
+### Monday 26th November
+
+[Version 05](https://meganturtlee.github.io/john_baskerville/baskerville5.html) 
+Added Google Fonts
+
+<br>
+
+### Monday 3rd December
+[Version 06](https://meganturtlee.github.io/john_baskerville/baskerville6.html) 
+Added social media svg icons and styled table
