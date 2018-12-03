@@ -1,0 +1,114 @@
+/* ------ CSS RESET ------ */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+  }
+
+/* ------ MAIN STYLING ------ */
+
+body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+    background: #fafafa;
+    color: #333333
+}
+
+/*----------- TYPOGRAPHY SIZES ------------*/
+
+h1, h2, h3, h4 {
+    font-weight: normal;
+    color: #333333;
+    text-align: left
+}
+
+p, li, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.5
+}
+
+h1 {
+    font-size: 4em;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em 
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 1.5em
+}
+
+h3 {
+    font-size: 1em;
+    margin-top: 2em
+}
+
+h4 {
+    font-size: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    line-height: 1.6em
+}
+
+header h2 {
+    font-style: italic;
+    font-size: 2.35em;
+    margin-top: 0.1em;
+    color: #333
+}
+
+hr{
+    margin: 3em 0;
+    height: 2px;
+    background-color:  #c06;   
+    color: #c06;
+    border: 0 none 
+}
+
+/*--------BLOCKQUOTE----------*/
+
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.3em;
+    line-height: 1.3;
+    color: #777;
+    font-style: italic
+}
+
+blockquote cite {
+    font-size:0.75em
+}
+
+blockquote { 
+    hanging-punctuation: first;
+    text-indent: -0.5em
+}
+
+/*---------- VERSION 01 ----------*/
+
+div.version01{
+    font-family: 'Libre Baskerville', serif;
+}
+h2{
+    font-style: italic
+}
+p{
+    font-size: 0.85em
+}
+
+/*---------- VERSION 02 ----------*/
+
+div.version02{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/*---------- VERSION 03 ----------*/
+
+div.version03{
+    font-family: 'Arvo', serif;
+
+}
