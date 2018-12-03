@@ -40,4 +40,7 @@ Added Google Fonts
 Added social media svg icons and styled table
 
 # History of Type
-<hr>
+
+### 30th October 
+
+[History of Type 1](https://meganturtlee.github.io/john_baskerville/History/history1.html) 
