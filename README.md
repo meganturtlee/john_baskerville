@@ -44,3 +44,20 @@ Added social media svg icons and styled table
 ### 30th October 
 
 [History of Type 1](https://meganturtlee.github.io/john_baskerville/History/history1.html) 
+Added first HTML page
+
+### 5th November
+[History of Type 2](https://meganturtlee.github.io/john_baskerville/History/history2.html)
+Added a simple nav and list
+
+### 12th November
+[History of Type 3](https://meganturtlee.github.io/john_baskerville/History/history3.html)
+Added table and image
+
+### 18th November
+[History of Type 4](https://meganturtlee.github.io/john_baskerville/History/history4.html)
+Added css
+
+### 26th November
+[Typographic Details](https://meganturtlee.github.io/john_baskerville/History/typographic_exercise.html)
+Added css
