@@ -38,3 +38,6 @@ Added Google Fonts
 ### Monday 3rd December
 [Version 06](https://meganturtlee.github.io/john_baskerville/baskerville6.html) 
 Added social media svg icons and styled table
+
+# History of Type
+<hr>
