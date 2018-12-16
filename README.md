@@ -52,7 +52,7 @@ Added first HTML page
 Added a simple nav and list
 
 ### 12th November
-[History of Type 3](https://meganturtlee.github.io/john_baskerville/History/history3.html)
+[History of Type 3](https://meganturtlee.github.io/john_baskerville/history3.html)
 Added table and image
 
 ### 18th November
