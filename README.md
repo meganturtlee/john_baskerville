@@ -59,6 +59,10 @@ Added table and image
 [History of Type 4](https://meganturtlee.github.io/john_baskerville/history4.html)
 Added css
 
+### 24th November
+[History of Type 5](https://meganturtlee.github.io/john_baskerville/history5.html)
+Added css
+
 ### 26th November
 [Typographic Details](https://meganturtlee.github.io/john_baskerville/typographic_exercise.html)
 Added css

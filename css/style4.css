@@ -41,10 +41,6 @@ h1 {
     text-shadow: 2px 2px 2px rgba(0,0,0,0.5)}
 }
 
-h2 {
-    font-size: 2.827em;
-    margin: 1em 0
-}
 
 h3 {
     font-size: 1.999em
@@ -62,6 +58,10 @@ header h2 {
     color: #333
 }
 
+h2 {
+    font-size: 2.827em;
+    margin: 1em 0
+}
 /*-----------STYLING LINK------------*/
 
 a {
@@ -154,10 +154,6 @@ table {
     margin-bottom: 2em
 }
 
-caption {
-    margin-bottom: 1.5;
-    text-transform: uppercase;
-}
 
 th {
     color: #fff;
